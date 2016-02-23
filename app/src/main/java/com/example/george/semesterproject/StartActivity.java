@@ -14,6 +14,7 @@ public class StartActivity extends AppCompatActivity {
     //no he didnt
 //stuff
     //why is this so unnecessarily complicated
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
